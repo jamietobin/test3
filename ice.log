@@ -1,0 +1,117 @@
+Novell Import Convert Export utility for Novell eDirectory  
+version: 10552.40 
+Copyright 2000 Novell, Inc.  All rights reserved.  Patent Pending.
+Source Handler: ICE LDIF handler for Novell eDirectory (version: 10552.40 )
+Destination Handler: ICE LDAP handler for Novell eDirectory (version: 10552.40 )
+ICE log file: ice.log
+Start time: 08 January 2016
+Press control-C to exit
+Operation in progress ... 
+
+. 
+Record 2: LBURP operation failed: 32(No such object), dn: cn=USJMOO1,ou=Credit Insurance,ou=BAL,ou=US,ou=R4,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=BAL,ou=US,ou=R4,o=GROUPWIDE
+Record 3: LBURP operation failed: 32(No such object), dn: cn=NLCGLE1,ou=HR,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=HR,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 6: LBURP operation failed: 32(No such object), dn: cn=INSSHE1,ou=BOM,ou=IN,ou=R2,o=GROUPWIDE, matchedDN: ou=BOM,ou=IN,ou=R2,o=GROUPWIDE
+Record 7: LBURP operation failed: 32(No such object), dn: cn=FRBGAL1,ou=Credit Insurance,ou=NAM,ou=BE,ou=R3,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=NAM,ou=BE,ou=R3,o=GROUPWIDE
+Record 8: LBURP operation failed: 32(No such object), dn: cn=IECDEN1,ou=DUB,ou=IE,ou=R4,o=GROUPWIDE, matchedDN: ou=DUB,ou=IE,ou=R4,o=GROUPWIDE
+Record 14: LBURP operation failed: 32(No such object), dn: cn=NLMMOE1,ou=Risk Services,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 16: LBURP operation failed: 32(No such object), dn: cn=DEJWIE1,ou=BFE,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=BFE,ou=DE,ou=R2,o=GROUPWIDE
+Record 18: LBURP operation failed: 19(Constraint violation), dn: cn=NLFBEI1,ou=Finance and Control,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 19: LBURP operation failed: 32(No such object), dn: cn=DKJJEN1,ou=Credit Insurance,ou=CPH,ou=DK,ou=R1,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=CPH,ou=DK,ou=R1,o=GROUPWIDE
+Record 20: LBURP operation failed: 32(No such object), dn: cn=NLMKLE1,ou=HR,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=HR,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 21: LBURP operation failed: 32(No such object), dn: cn=DEJSCH9,ou=HAM,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=HAM,ou=DE,ou=R2,o=GROUPWIDE
+Record 22: LBURP operation failed: 32(No such object), dn: cn=DEIALP1,ou=Collections and Recoveries,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Collections and Recoveries,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 23: LBURP operation failed: 32(No such object), dn: cn=CNMSUI1,ou=SHA,ou=CN,ou=R4,o=GROUPWIDE, matchedDN: ou=SHA,ou=CN,ou=R4,o=GROUPWIDE
+Record 24: LBURP operation failed: 32(No such object), dn: cn=NLMDRA1,ou=HR,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=HR,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 25: LBURP operation failed: 32(No such object), dn: cn=PLRJAN1,ou=WRO,ou=PL,ou=R2,o=GROUPWIDE, matchedDN: ou=WRO,ou=PL,ou=R2,o=GROUPWIDE
+Record 27: LBURP operation failed: 32(No such object), dn: cn=DEWDON1,ou=Collections and Recoveries,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Collections and Recoveries,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 29: LBURP operation failed: 32(No such object), dn: cn=ITVRIS1,ou=Risk Services,ou=ROM,ou=IT,ou=R3,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=ROM,ou=IT,ou=R3,o=GROUPWIDE
+Record 34: LBURP operation failed: 32(No such object), dn: cn=NLRZAA1,ou=Risk Services,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 35: LBURP operation failed: 32(No such object), dn: cn=DEARAS1,ou=FRA,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=FRA,ou=DE,ou=R2,o=GROUPWIDE
+Record 36: LBURP operation failed: 32(No such object), dn: cn=FRSDAG1,ou=CMP,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=CMP,ou=FR,ou=R3,o=GROUPWIDE
+Record 37: LBURP operation failed: 32(No such object), dn: cn=DEAHEP1,ou=STR,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=STR,ou=DE,ou=R2,o=GROUPWIDE
+Record 38: LBURP operation failed: 32(No such object), dn: cn=SGKWON1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 44: LBURP operation failed: 19(Constraint violation), dn: cn=AUADOB1,ou=Credit Insurance,ou=SYD,ou=AU,ou=R4,o=GROUPWIDE
+Record 46: LBURP operation failed: 32(No such object), dn: cn=FREBER1,ou=Credit Insurance,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 49: LBURP operation failed: 32(No such object), dn: cn=SGJHEE1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 51: LBURP operation failed: 32(No such object), dn: cn=FRCLEH1,ou=Bonding,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Bonding,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 52: LBURP operation failed: 32(No such object), dn: cn=NLMDON1,ou=DSB,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=DSB,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 54: LBURP operation failed: 32(No such object), dn: cn=DESGUR1,ou=FRA,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=FRA,ou=DE,ou=R2,o=GROUPWIDE
+Record 55: LBURP operation failed: 32(No such object), dn: cn=DECKOP2,ou=Risk Services,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 56: LBURP operation failed: 32(No such object), dn: cn=DECKOP2,ou=Risk Services,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 58: LBURP operation failed: 32(No such object), dn: cn=FRETOU1,ou=Risk Services,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 59: LBURP operation failed: 32(No such object), dn: cn=PLEKUL1,ou=Collections and Recoveries,ou=WAW,ou=PL,ou=R2,o=GROUPWIDE, matchedDN: ou=WAW,ou=PL,ou=R2,o=GROUPWIDE
+Record 60: LBURP operation failed: 32(No such object), dn: cn=PLMGRU2,ou=Collections and Recoveries,ou=WAW,ou=PL,ou=R2,o=GROUPWIDE, matchedDN: ou=WAW,ou=PL,ou=R2,o=GROUPWIDE
+Record 61: LBURP operation failed: 32(No such object), dn: cn=AUGBON1,ou=Credit Insurance,ou=SYD,ou=AU,ou=R4,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=SYD,ou=AU,ou=R4,o=GROUPWIDE
+Record 63: LBURP operation failed: 32(No such object), dn: cn=ITLFAI1,ou=Risk Services,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE
+Record 64: LBURP operation failed: 32(No such object), dn: cn=GBMWIL3,ou=Collections and Recoveries,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE, matchedDN: ou=Collections and Recoveries,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE
+Record 71: LBURP operation failed: 32(No such object), dn: cn=DEBGRZ1,ou=FRA,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=FRA,ou=DE,ou=R2,o=GROUPWIDE
+Record 72: LBURP operation failed: 32(No such object), dn: cn=DEKKAY1,ou=Finance and Control,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Finance and Control,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 75: LBURP operation failed: 32(No such object), dn: cn=ATMVIA1,ou=VIE,ou=AT,ou=R2,o=GROUPWIDE, matchedDN: ou=VIE,ou=AT,ou=R2,o=GROUPWIDE
+Record 76: LBURP operation failed: 32(No such object), dn: cn=CZGTRG1,ou=PRG,ou=CZ,ou=R2,o=GROUPWIDE, matchedDN: ou=PRG,ou=CZ,ou=R2,o=GROUPWIDE
+Record 77: LBURP operation failed: 32(No such object), dn: cn=DEIHUM1,ou=Consumer Credit,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Consumer Credit,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 78: LBURP operation failed: 32(No such object), dn: cn=DEUSIE1,ou=Credit Insurance,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 79: LBURP operation failed: 32(No such object), dn: cn=INJPAC1,ou=ITS,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE, matchedDN: ou=ITS,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE
+Record 80: LBURP operation failed: 32(No such object), dn: cn=AEMTAL1,ou=DXB,ou=AE,ou=R2,o=GROUPWIDE, matchedDN: ou=R2,o=GROUPWIDE
+Record 82: LBURP operation failed: 32(No such object), dn: cn=HKRLEE1,ou=HKG,ou=HK,ou=R4,o=GROUPWIDE, matchedDN: ou=HKG,ou=HK,ou=R4,o=GROUPWIDE
+Record 83: LBURP operation failed: 32(No such object), dn: cn=INKKUL1,ou=BOM,ou=IN,ou=R2,o=GROUPWIDE, matchedDN: ou=BOM,ou=IN,ou=R2,o=GROUPWIDE
+Record 91: LBURP operation failed: 32(No such object), dn: cn=DEDMEI1,ou=MUC,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=MUC,ou=DE,ou=R2,o=GROUPWIDE
+Record 97: LBURP operation failed: 32(No such object), dn: cn=ITIGAL1,ou=Risk Services,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE
+Record 98: LBURP operation failed: 32(No such object), dn: cn=NLSKIB1,ou=Finance and Control,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=Finance and Control,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 99: LBURP operation failed: 32(No such object), dn: cn=DEKBIN1,ou=HAJ,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=HAJ,ou=DE,ou=R2,o=GROUPWIDE
+Record 100: LBURP operation failed: 32(No such object), dn: cn=ITFRIN1,ou=Collections and Recoveries,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE, matchedDN: ou=Collections and Recoveries,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE
+Record 101: LBURP operation failed: 32(No such object), dn: cn=NLSKIE1,ou=ITS,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=ITS,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 102: LBURP operation failed: 32(No such object), dn: cn=FRDCHI1,ou=Bonding,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Bonding,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 103: LBURP operation failed: 32(No such object), dn: cn=GBPVAU1,ou=ITS,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE, matchedDN: ou=ITS,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE
+Record 105: LBURP operation failed: 32(No such object), dn: cn=DEMHAL1,ou=MUC,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=MUC,ou=DE,ou=R2,o=GROUPWIDE
+Record 110: LBURP operation failed: 32(No such object), dn: cn=SGMRAZ1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 112: LBURP operation failed: 32(No such object), dn: cn=FRJFOR1,ou=Risk Services,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 117: LBURP operation failed: 32(No such object), dn: cn=SGSCHA1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 119: LBURP operation failed: 32(No such object), dn: cn=INSLAW1,ou=ITS,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE, matchedDN: ou=ITS,ou=CDF,ou=GB,ou=R4,o=GROUPWIDE
+Record 120: LBURP operation failed: 32(No such object), dn: cn=NLGLAN1,ou=Facilities,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=Facilities,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 121: LBURP operation failed: 32(No such object), dn: cn=DERHEN1,ou=Credit Insurance,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 122: LBURP operation failed: 32(No such object), dn: cn=NLNCHO1,ou=ITS,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=ITS,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 137: LBURP operation failed: 32(No such object), dn: cn=ITVMAR1,ou=Bonding,ou=ROM,ou=IT,ou=R3,o=GROUPWIDE, matchedDN: ou=Bonding,ou=ROM,ou=IT,ou=R3,o=GROUPWIDE
+Record 138: LBURP operation failed: 19(Constraint violation), dn: cn=ITATRI1,ou=Holding,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE
+Record 139: LBURP operation failed: 19(Constraint violation), dn: cn=ITLORS1,ou=Collections and Recoveries,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE
+Record 151: LBURP operation failed: 32(No such object), dn: cn=PLDPUS1,ou=POZ,ou=PL,ou=R2,o=GROUPWIDE, matchedDN: ou=POZ,ou=PL,ou=R2,o=GROUPWIDE
+Record 153: LBURP operation failed: 32(No such object), dn: cn=NLMKRO1,ou=DSB,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=DSB,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 158: LBURP operation failed: 32(No such object), dn: cn=DEEBEC1,ou=STR,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=STR,ou=DE,ou=R2,o=GROUPWIDE
+Record 159: LBURP operation failed: 32(No such object), dn: cn=NLEMAT1,ou=Finance and Control,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE, matchedDN: ou=Finance and Control,ou=AMS,ou=NL,ou=R1,o=GROUPWIDE
+Record 160: LBURP operation failed: 32(No such object), dn: cn=SGJENG1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 161: LBURP operation failed: 32(No such object), dn: cn=GBZTAN1,ou=LON,ou=GB,ou=R4,o=GROUPWIDE, matchedDN: ou=LON,ou=GB,ou=R4,o=GROUPWIDE
+Record 162: LBURP operation failed: 32(No such object), dn: cn=DENCHI1,ou=Risk Services,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=Risk Services,ou=CGN,ou=DE,ou=R2,o=GROUPWIDE
+Record 163: LBURP operation failed: 32(No such object), dn: cn=FRTSIL1,ou=LLE,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=LLE,ou=FR,ou=R3,o=GROUPWIDE
+Record 164: LBURP operation failed: 32(No such object), dn: cn=FRJDAM2,ou=Credit Insurance,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Credit Insurance,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 165: LBURP operation failed: 32(No such object), dn: cn=SGZDIN1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 166: LBURP operation failed: 32(No such object), dn: cn=ITEMUR1,ou=Collections and Recoveries,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE, matchedDN: ou=Collections and Recoveries,ou=MIL,ou=IT,ou=R3,o=GROUPWIDE
+Record 169: LBURP operation failed: 32(No such object), dn: cn=SGDMAT1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+Record 172: LBURP operation failed: 32(No such object), dn: cn=DEABRE1,ou=MUC,ou=DE,ou=R2,o=GROUPWIDE, matchedDN: ou=MUC,ou=DE,ou=R2,o=GROUPWIDE
+Record 174: LBURP operation failed: 32(No such object), dn: cn=FRSROU1,ou=Bonding,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Bonding,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 181: LBURP operation failed: 32(No such object), dn: cn=INABAN1,ou=BOM,ou=IN,ou=R2,o=GROUPWIDE, matchedDN: ou=BOM,ou=IN,ou=R2,o=GROUPWIDE
+Record 182: LBURP operation failed: 32(No such object), dn: cn=FREPIE1,ou=Global,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE, matchedDN: ou=Global,ou=PAR,ou=FR,ou=R3,o=GROUPWIDE
+Record 183: LBURP operation failed: 32(No such object), dn: cn=SGHYAN1,ou=SIN,ou=SG,ou=R4,o=GROUPWIDE, matchedDN: ou=SIN,ou=SG,ou=R4,o=GROUPWIDE
+
+
+Total entries processed: 183
+Total entries failed: 82
+End time: 08 January 2016
+Total Time:  0:00:14.124
+Time per entry: 00:00.077
+Novell Import Convert Export utility for Novell eDirectory  
+version: 10552.40 
+Copyright 2000 Novell, Inc.  All rights reserved.  Patent Pending.
+Source Handler: ICE LDIF handler for Novell eDirectory (version: 10552.40 )
+Destination Handler: ICE LDAP handler for Novell eDirectory (version: 10552.40 )
+ICE log file: ice.log
+Start time: 08 January 2016
+Press control-C to exit
+Operation in progress ... 
+
+. 
+
+Total entries processed: 183
+Total entries failed: 0
+End time: 08 January 2016
+Total Time:  0:00:30.350
+Time per entry: 00:00.165
